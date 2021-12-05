@@ -3,14 +3,22 @@
 
 ## [Prototype](https://xd.adobe.com/view/c01a103f-861e-40a6-81a7-c706f0c8a1d4-9549/)
 
-## 
-Add Logo Here!!!!
+## Logo
 
-Add User Flow Chart!!!
+<img src="Candor Images/Candor Logo.png">
 
-Add Mood Board!!!
+## User Flow Chart
 
-Add Design System!!!
+<img src="Candor Images/Candor User Flow Chart.png">
+
+## Mood Board
+
+<img src="Candor Images/Candor Moodboard.png">
+
+## Design System
+
+<img src="Candor Images/Candor Design System.PNG">
+
 
 
 ## Executive Summary
@@ -63,8 +71,3 @@ UI/UX Design Project
 | Empathetic | Family, Loved Ones | Cooking | Participant of workout classes | 
 | Friendly | Kindness | Team Sports | "Yes-Man" |
 
-
-
-## User Personas 
-
-Coming Back!!!!
