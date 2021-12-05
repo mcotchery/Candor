@@ -1,6 +1,9 @@
 # Candor
 > *"Candor makes journaling easier, for everyone."*
 
+## [Prototype](https://xd.adobe.com/view/c01a103f-861e-40a6-81a7-c706f0c8a1d4-9549/)
+
+## 
 Add Logo Here!!!!
 
 Add User Flow Chart!!!
@@ -9,7 +12,6 @@ Add Mood Board!!!
 
 Add Design System!!!
 
-Add Adobe XD Link!!!
 
 ## Executive Summary
 
