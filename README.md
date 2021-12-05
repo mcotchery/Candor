@@ -53,54 +53,15 @@ UI/UX Design Project
 
 #### Psychographics
 
-##### Personality & Attitudes
-
-- Sensitive
-
-- Sentimental 
-
-- Passionate
-
-- Empathetic
-
-- Friendly 
-
-##### Values
-
-- Communication
-
-- Honesty
-
-- Transparency
-
-- Family and Loved Ones
-
-- Kindness
+| Personality & Attitudes  | Values | Interests | Lifestyles |
+| ------------- | ------------- | ------------- | ------------- | 
+| Sensitive  | Communication  | Community Service | Very Active; Constantly on-the-go | 
+| Sentimental | Honesty  | Reading | Regularly spends time with family and friends | 
+| Passionate | Transparency | Movie Nights | Preferance of home-cooked meals to pick-up orders | 
+| Empathetic | Family, Loved Ones | Cooking | Participant of workout classes | 
+| Friendly | Kindness | Team Sports | "Yes-Man" |
 
 
-##### Interests
-
-- Community Service
-
-- Reading
-
-- Movie Nights
-
-- Cooking
-
-- Team Sports
-
-###### Lifestyles
-
-- Very active; on-the-go constantly
-
-- Regularly spends quality time with friends and family
-
-- Preferance of homemade meals to pick-up orders
-
-- Participant of workout classes
-
-- "Yes-Man"
 
 ## User Personas 
 
