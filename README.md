@@ -71,3 +71,12 @@ UI/UX Design Project
 | Empathetic | Family, Loved Ones | Cooking | Participant of workout classes | 
 | Friendly | Kindness | Team Sports | "Yes-Man" |
 
+## User Personas
+
+<img src="Candor Images/User-Charisse.PNG">
+
+<img src="Candor Images/User-Ethan.PNG">
+
+<img src="Candor Images/User-Bryan.PNG">
+
+<img src="Candor Images/User-Irene.PNG">
